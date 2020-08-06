@@ -1,0 +1,54 @@
+p {
+  color: #737172;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.image-brand {
+  width: 200px;
+  height: auto;
+}
+
+label {
+  font-weight: 700;
+}
+
+.btn-submit {
+  border-radius: 25px;
+  padding: 0.7em 2.2em;
+}
+
+.select_customarrow {
+  -webkit-appearance: none;
+  /* for chrome & safari */
+  -moz-appearance: none;
+  /* for mozilla */
+  background-image: url("/src/images/right_arrow.png");
+  background-repeat: no-repeat;
+  background-position: 99% center;
+  background-size: 10px;
+}
+
+.error {
+  border: 1px solid #e03b65;
+}
+
+.alert-error {
+  width: 100%;
+  height: auto;
+  padding: 0.5em 0;
+  color: #e03b65;
+  font-size: 0.8em;
+  font-weight: 300;
+}
+.alert-success {
+  width: 100%;
+  height: auto;
+  padding: 0.5em 0;
+  color: #008f39;
+  background-color: transparent;
+  font-size: 0.8em;
+  font-weight: 300;
+}
+
+/*# sourceMappingURL=style.css.map */
