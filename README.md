@@ -1,2 +1,2 @@
 # LandingSigma
-This a test Sigma Studios by mdesigner 
+This a test of Sigma Studios by mdesigner 
