@@ -1,0 +1,32 @@
+p {
+  color: #737172;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.image-brand {
+  width: 200px;
+  height: auto;
+}
+
+label {
+  font-weight: 700;
+}
+
+.btn-submit {
+  border-radius: 25px;
+  padding: 0.7em 2.2em;
+}
+
+.select_customarrow {
+  -webkit-appearance: none;
+  /* for chrome & safari */
+  -moz-appearance: none;
+  /* for mozilla */
+  background-image: url("/src/images/right_arrow.png");
+  background-repeat: no-repeat;
+  background-position: 99% center;
+  background-size: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
