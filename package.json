@@ -1,0 +1,25 @@
+{
+  "name": "landingsigma",
+  "version": "1.0.0",
+  "description": "This a test Sigma Studios by mdesigner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdesignerco/LandingSigma.git"
+  },
+  "author": "J Michael Hernandez Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdesignerco/LandingSigma/issues"
+  },
+  "homepage": "https://github.com/mdesignerco/LandingSigma#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.5.1"
+  }
+}
